@@ -12,7 +12,7 @@ Deleting the app generally removes locally stored records from the device. If yo
 GutDiary uses Apple’s StoreKit framework to process optional support purchases. Purchase processing is handled by Apple.
 
 If you have any questions about this privacy policy, please contact me at:
-[申請中]
+kumorilab@gmail.com
 
 ---
 
@@ -27,7 +27,7 @@ GutDiary 使用 Apple 的本機儲存框架，將日記紀錄儲存在你的裝�
 GutDiary 使用 Apple 的 StoreKit 框架處理選擇性的贊助購買。購買流程由 Apple 處理。
 
 如果你對本隱私權政策有任何問題，請透過以下方式聯絡我：
-[申請中]
+kumorilab@gmail.com
 
 ---
 
@@ -42,4 +42,4 @@ App を削除すると、通常、デバイス内に保存された記録も削�
 GutDiary は、任意のサポート購入を処理するために Apple の StoreKit フレームワークを使用します。購入処理は Apple によって行われます。
 
 本プライバシーポリシーについてご質問がある場合は、以下までお問い合わせください：
-[申請中]
+kumorilab@gmail.com
