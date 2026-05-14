@@ -1,0 +1,1 @@
+# GutDiary-legal
