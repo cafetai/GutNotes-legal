@@ -1,5 +1,5 @@
 # GutNotes Privacy Policy
-Last updated: May 15, 2026
+Last updated: May 18, 2026
 
 ## English
 
